@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* print_times_table -   a function that computes and prints the sum
+* main -   a function that computes and prints the sum
 * of all the multiples of 3 or 5
 *
 * Return: 0
